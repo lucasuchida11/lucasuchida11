@@ -2,7 +2,7 @@
   <img src="uchida.gif" width="100%" alt="Cybersecurity" />
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Focus-Cybersecurity-38BDF8?style=flat-square&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/Interests-Network_Security-38BDF8?style=flat-square&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/Environment-Linux-38BDF8?style=flat-square&labelColor=0D1117" />
