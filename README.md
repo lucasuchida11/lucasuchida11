@@ -45,5 +45,5 @@ Explorando o universo da cibersegurança, da infraestrutura de redes à análise
 ##  — 
 
 <p align="center">
-  <img src="https://i.pinimg.com/736x/29/15/77/2915771c6202130b98dadee9f4ed1e2d.jpg" width="100%" alt="Cybersecurity" />
+  <img src="https://i.pinimg.com/originals/68/f4/9b/68f49b86fad0f53e015fb9e82371cb11.gif" width="100%" alt="Cybersecurity" />
 </p>
