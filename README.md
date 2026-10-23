@@ -1,4 +1,4 @@
-# `Uchida` | Cybersecurity
+# `Uchida` | Cibersegurança
 
 <p align="left">
   <img src="https://img.shields.io/badge/Focus-Cybersecurity-38BDF8?style=flat-square&labelColor=0D1117" />
@@ -10,7 +10,7 @@ Explorando o universo da cibersegurança, da infraestrutura de redes à análise
 
 ---
 
-## `01` — About Me
+## `01` — Sobre mim
 
 - Interessado em engenharia de cibersegurança e segurança da informação.
 - Estudando redes, sistemas operacionais e infraestrutura de TI.
@@ -18,7 +18,7 @@ Explorando o universo da cibersegurança, da infraestrutura de redes à análise
 - Aprendendo sobre vulnerabilidades, hardening e monitoramento de sistemas.
 - Documentando estudos, laboratórios e projetos práticos.
 
-## `02` — Areas of Interest
+## `02` — Áreas de Interesse
 
 <p align="left">
   <img src="https://img.shields.io/badge/Network_Security-0D1117?style=flat-square&logo=linux&logoColor=38BDF8" />
@@ -29,13 +29,13 @@ Explorando o universo da cibersegurança, da infraestrutura de redes à análise
   <img src="https://img.shields.io/badge/Linux_Security-0D1117?style=flat-square&logo=linux&logoColor=38BDF8" />
 </p>
 
-## `03` — Technologies & Tools
+## `03` — Tecnologias e Ferramentas
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=linux,kali,bash,python,git,github,docker,postgres&theme=dark" />
 </p>
 
-## `04` — GitHub Statistics
+## `04` — GitHub 
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=lucasuchida11&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9" />
