@@ -42,12 +42,8 @@ Explorando o universo da cibersegurança, da infraestrutura de redes à análise
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasuchida11&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9" />
 </p>
 
-## `05` — Contribution Activity
+##  — 
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&bg_color=0D1117&color=38BDF8&line=2563EB&point=38BDF8&area=true&hide_border=true"
-    width="100%"
-    alt="GitHub Contribution Activity Graph"
-  />
+  <img src="https://i.pinimg.com/1200x/7b/87/1c/7b871cee4ff324b9cc17ea028b4074ce.jpg" width="100%" alt="Cybersecurity" />
 </p>
