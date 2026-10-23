@@ -10,7 +10,7 @@
 
 ---
 
-## `01` 
+## `01 — Sobre mim` 
 
 - Interessado em engenharia de cibersegurança e segurança da informação.
 - Estudando redes, sistemas operacionais e infraestrutura de TI.
@@ -18,7 +18,7 @@
 - Aprendendo sobre vulnerabilidades, hardening e monitoramento de sistemas.
 - Documentando estudos, laboratórios e projetos práticos.
 
-## `02` 
+## `02 — Áreas de Interesse ` 
 
 <p align="left">
   <img src="https://img.shields.io/badge/Network_Security-0D1117?style=flat-square&logo=linux&logoColor=38BDF8" />
@@ -29,7 +29,7 @@
   <img src="https://img.shields.io/badge/Linux_Security-0D1117?style=flat-square&logo=linux&logoColor=38BDF8" />
 </p>
 
-## `03` 
+## `03 - Ferramentas e Tecnologias` 
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=linux,kali,bash,python,git,github,docker,postgres&theme=dark" />
