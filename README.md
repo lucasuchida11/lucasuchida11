@@ -35,20 +35,11 @@ Explorando o universo da cibersegurança, da infraestrutura de redes à análise
   <img src="https://skillicons.dev/icons?i=linux,kali,bash,python,git,github,docker,postgres&theme=dark" />
 </p>
 
-**Areas to explore:**
-
-- Network analysis and traffic inspection
-- Vulnerability assessment and remediation
-- Linux system administration and hardening
-- Security monitoring and incident response
-- Scripting and automation with Python
-- Web application security and OWASP Top 10
-
 ## `04` — GitHub Statistics
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=lucasuchida11&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasuchida11&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9" />
 </p>
 
 ## `05` — Contribution Activity
