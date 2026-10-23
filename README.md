@@ -45,10 +45,9 @@ Explorando o universo da cibersegurança, da infraestrutura de redes à análise
 ## `05` — Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&bg_color=0D1117&color=38BDF8&line=2563EB&point=38BDF8&area=true&hide_border=true" width="100%" />
-</p>
-
-
-<p align="center">
-  <img src="https://img.shields.io/badge/ACCESS-LEARNING_MODE-38BDF8?style=for-the-badge&labelColor=0D1117" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&bg_color=0D1117&color=38BDF8&line=2563EB&point=38BDF8&area=true&hide_border=true"
+    width="100%"
+    alt="GitHub Contribution Activity Graph"
+  />
 </p>
