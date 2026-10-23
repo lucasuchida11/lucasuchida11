@@ -20,7 +20,7 @@
 
 ## `02 — Áreas de Interesse ` 
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Network_Security-0D1117?style=flat-square&logo=linux&logoColor=38BDF8" />
   <img src="https://img.shields.io/badge/Penetration_Testing-0D1117?style=flat-square&logo=kalilinux&logoColor=38BDF8" />
   <img src="https://img.shields.io/badge/Blue_Team-0D1117?style=flat-square&logo=defender&logoColor=38BDF8" />
@@ -31,7 +31,7 @@
 
 ## `03 - Ferramentas e Tecnologias` 
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=linux,kali,bash,python,git,github,docker,postgres&theme=dark" />
 </p>
 
