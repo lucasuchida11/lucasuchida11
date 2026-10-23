@@ -8,11 +8,9 @@
   <img src="https://img.shields.io/badge/Environment-Linux-38BDF8?style=flat-square&labelColor=0D1117" />
 </p>
 
-Explorando o universo da cibersegurança, da infraestrutura de redes à análise de vulnerabilidades, com foco em aprendizado contínuo, segurança digital e resolução de problemas.
-
 ---
 
-## `01` — Sobre mim
+## `01` 
 
 - Interessado em engenharia de cibersegurança e segurança da informação.
 - Estudando redes, sistemas operacionais e infraestrutura de TI.
@@ -20,7 +18,7 @@ Explorando o universo da cibersegurança, da infraestrutura de redes à análise
 - Aprendendo sobre vulnerabilidades, hardening e monitoramento de sistemas.
 - Documentando estudos, laboratórios e projetos práticos.
 
-## `02` — Áreas de Interesse
+## `02` 
 
 <p align="left">
   <img src="https://img.shields.io/badge/Network_Security-0D1117?style=flat-square&logo=linux&logoColor=38BDF8" />
@@ -31,7 +29,7 @@ Explorando o universo da cibersegurança, da infraestrutura de redes à análise
   <img src="https://img.shields.io/badge/Linux_Security-0D1117?style=flat-square&logo=linux&logoColor=38BDF8" />
 </p>
 
-## `03` — Tecnologias e Ferramentas
+## `03` 
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=linux,kali,bash,python,git,github,docker,postgres&theme=dark" />
