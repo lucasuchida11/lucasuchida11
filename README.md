@@ -35,7 +35,7 @@
   <img src="https://skillicons.dev/icons?i=linux,kali,bash,python,git,github,docker,postgres&theme=dark" />
 </p>
 
-## `04` — GitHub 
+## `04 — GitHub`
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=lucasuchida11&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9" />
