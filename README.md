@@ -1,4 +1,6 @@
-# `Uchida` | Cibersegurança
+<p align="center">
+  <img src="uchida.gif" width="100%" alt="Cybersecurity" />
+</p>
 
 <p align="left">
   <img src="https://img.shields.io/badge/Focus-Cybersecurity-38BDF8?style=flat-square&labelColor=0D1117" />
@@ -42,8 +44,3 @@ Explorando o universo da cibersegurança, da infraestrutura de redes à análise
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasuchida11&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9" />
 </p>
 
-##  — 
-
-<p align="center">
-  <img src="https://i.pinimg.com/originals/68/f4/9b/68f49b86fad0f53e015fb9e82371cb11.gif" width="100%" alt="Cybersecurity" />
-</p>
