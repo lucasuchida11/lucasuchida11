@@ -41,7 +41,7 @@
 
 <p align="center">
   <img
-    height="180"
+    height="300"
     src="https://ghstats.dev/api/card?username=lucasuchida11&theme=midnight"
     alt="GitHub Statistics"
   />
