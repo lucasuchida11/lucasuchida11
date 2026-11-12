@@ -35,10 +35,18 @@
   <img src="https://skillicons.dev/icons?i=linux,kali,bash,python,git,github,docker,postgres&theme=dark" />
 </p>
 
+
 ## `04 — GitHub`
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=lucasuchida11&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasuchida11&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9" />
+  <img
+    height="160"
+    alt="GitHub Stats"
+    src="https://github-readme-stats.vercel.app/api?username=lucasuchida11&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=38BDF8&amp;icon_color=38BDF8&amp;text_color=C9D1D9"
+  />
+  <img
+    height="160"
+    alt="Most Used Languages"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasuchida11&amp;layout=compact&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=38BDF8&amp;text_color=C9D1D9"
+  />
 </p>
-
