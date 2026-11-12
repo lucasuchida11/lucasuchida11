@@ -41,9 +41,13 @@
 
 <p align="center">
   <img
-    height="160"
-    src="https://ghstats.dev/api/card?username=lucasuchida11&amp;theme=tokyonight"
+    height="180"
+    src="https://ghstats.dev/api/card?username=lucasuchida11&theme=midnight"
     alt="GitHub Statistics"
   />
+  <img
+    height="180"
+    src="https://ghstats.dev/api/langs?username=lucasuchida11&theme=midnight&layout=compact"
+    alt="Top Languages"
+  />
 </p>
-
